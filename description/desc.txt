@@ -1,0 +1,14 @@
+Shield is designed to keep your server safe and stop raids, as well as being your normal everyday moderation / fun bot.
+Shield includes some information commands, Utility commands, and moderation commands, economy commands and soon a lot of others.
+
+Our moto : "Never judge a book by its cover", meaning try before you judge :)
+
+Needed permissions (Recommended)
+https://discord.com/api/oauth2/authorize?client_id=981205974125776947&permissions=1117294554599&scope=bot
+
+
+All permissions (Not recommended)
+https://discord.com/api/oauth2/authorize?client_id=981205974125776947&permissions=8&scope=bot
+
+Support server:
+https://discord.gg/32pt4pt7hj

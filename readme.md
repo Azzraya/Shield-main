@@ -1,0 +1,1 @@
+Hello user, to get the bot started make a folder called "data" and move the "config.example.json" file into that folder, and then rename it to "config.json", and then follow the instructions in the config.json file
